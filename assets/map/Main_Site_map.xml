@@ -3,25 +3,25 @@
 
 	<url>
     <!--主页-->
-		<loc>https://kantiancheng.github.io/cube</loc>
+		<loc>https://kantiancheng.github.io/cube/</loc>
 		<lastmod><!--日期--></lastmod>
 	</url>
 
     <url>
     <!--排行-->
-		<loc>https://kantiancheng.github.io/cube/rank</loc>
+		<loc>https://kantiancheng.github.io/cube/rank/</loc>
 		<lastmod><!--日期--></lastmod>
 	</url>
 
 	<url>
     <!--记录-->
-		<loc>https://kantiancheng.github.io/cube/record</loc>
+		<loc>https://kantiancheng.github.io/cube/record/</loc>
 		<lastmod><!--日期--></lastmod>
 	</url>
 
 	<url>
     <!--公式量-->
-		<loc>https://kantiancheng.github.io/cube/formula</loc>
+		<loc>https://kantiancheng.github.io/cube/formula/</loc>
 		<lastmod><!--日期--></lastmod>
 	</url>
 
