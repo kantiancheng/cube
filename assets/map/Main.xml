@@ -4,25 +4,33 @@
 	<url>
     <!--主页-->
 		<loc>https://kantiancheng.github.io/cube/</loc>
-		<lastmod><!--日期--></lastmod>
+		<lastmod>2022-12-12</lastmod>
+		<priority>1.0</priority>
+        <changefreq>daily</changefreq>
 	</url>
 
     <url>
     <!--排行-->
 		<loc>https://kantiancheng.github.io/cube/rank/</loc>
-		<lastmod><!--日期--></lastmod>
+		<lastmod>2022-12-12</lastmod>
+		<priority>0.8</priority>
+        <changefreq>daily</changefreq>
 	</url>
 
 	<url>
     <!--记录-->
 		<loc>https://kantiancheng.github.io/cube/record/</loc>
-		<lastmod><!--日期--></lastmod>
+		<lastmod>2022-12-12</lastmod>
+		<priority>0.8</priority>
+        <changefreq>daily</changefreq>
 	</url>
 
 	<url>
     <!--公式量-->
 		<loc>https://kantiancheng.github.io/cube/formula/</loc>
-		<lastmod><!--日期--></lastmod>
+		<lastmod>2022-12-12</lastmod>
+		<priority>0.8</priority>
+        <changefreq>daily</changefreq>
 	</url>
 
 </urlset>
