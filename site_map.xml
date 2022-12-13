@@ -1,31 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-	<url>
-    <!--Home-Page-->
-		<loc>https://kantiancheng.github.io/cube/index.html</loc>
-		<lastmod>2022-12-12</lastmod>
-		<priority>1.0</priority>
-        <changefreq>daily</changefreq>
-	</url>
-    <url>
-    <!--ranks-->
-		<loc>https://kantiancheng.github.io/cube/rank/index.html</loc>
-		<lastmod>2022-12-12</lastmod>
-		<priority>0.8</priority>
-        <changefreq>daily</changefreq>
-	</url>
-	<url>
-    <!--records-->
-		<loc>https://kantiancheng.github.io/cube/record/index.html</loc>
-		<lastmod>2022-12-12</lastmod>
-		<priority>0.8</priority>
-        <changefreq>daily</changefreq>
-	</url>
-	<url>
-    <!--formula-->
-		<loc>https://kantiancheng.github.io/cube/formula/index.html</loc>
-		<lastmod>2022-12-12</lastmod>
-		<priority>0.8</priority>
-        <changefreq>daily</changefreq>
-	</url>
+  <url>
+    <loc>https://www.example.com/foo.html</loc>
+    <lastmod>2018-06-04</lastmod>
+  </url>
 </urlset>
