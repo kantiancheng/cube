@@ -8,6 +8,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Emmaus Lutheran Cube Association</title>
     <script src="./login.js"></script>
+    <script src="./user_repository.js"></script>
     <link rel="stylesheet" href="login.css" />
 </head>
 
@@ -19,13 +20,13 @@
               <h2 class="title">Sign in</h2>
               <div class="input-field">
                 <i class="fas fa-user"></i>
-                <input type="text" placeholder="Username" />
+                <input id="Username" type="text" placeholder="Username" />
               </div>
               <div class="input-field">
                 <i class="fas fa-lock"></i>
-                <input type="password" placeholder="Password" />
+                <input id="Password" type="password" placeholder="Password" />
               </div>
-              <input type="submit" value="Login" class="btn solid" />
+              <input onclick="login();" type="submit" value="Login" class="btn solid" />
               </div>
             </form>
           </div>
