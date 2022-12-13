@@ -177,7 +177,7 @@ form.sign-in-form {
 }
 
 .image {
-  
+  border-radius: 15px;
   width: 70%;
   transition: transform 1.1s ease-in-out;
   transition-delay: 0.4s;
