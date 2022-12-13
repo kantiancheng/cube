@@ -10,8 +10,8 @@ function login() {
             if (Password == Password[i][1]) {
                 sessionStorage.setItem("User_Name", User_Library[i][0]);
                 window.location.reload();
-            } else { alert("wrong password"); }
-        } else {
+            } else if (i == (User_Library.length - 1)) { alert("wrong password"); }
+        } else if (i == (User_Library.length - 1)){
             alert("username error");
         }
     }
