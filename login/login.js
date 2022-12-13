@@ -14,6 +14,7 @@ function login() {
                 console.log("密码正确！");
                 sessionStorage.setItem("User_Name", User_Library[i][0]);
                 window.location.reload();
+                return;
             } else if (i == (User_Library.length - 1)) { alert("wrong password"); }
         } else if (i == (User_Library.length - 1)) {
             alert("username error");
