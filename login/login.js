@@ -9,7 +9,7 @@ function login() {
         if (User_Library[i][0].toLowerCase() == Username.toLowerCase()) {
             console.log(User_Library[i][0].toLowerCase() + "==" + Username.toLowerCase());
             console.log("用户名正确！");
-            if (Password == Password[i][1]) {
+            if (Password == User_Library[i][1]) {
                 console.log(User_Library[i][1].toLowerCase() + "==" + Password.toLowerCase());
                 console.log("密码正确！");
                 sessionStorage.setItem("User_Name", User_Library[i][0]);
